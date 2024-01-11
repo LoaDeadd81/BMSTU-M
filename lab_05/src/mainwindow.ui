@@ -10,9 +10,6 @@
     <height>719</height>
    </rect>
   </property>
-  <property name="windowTitle">
-   <string>Артюхин Николай ИУ7-71Б ЛР №5 (Моделирование работы информационного центра)</string>
-  </property>
   <property name="styleSheet">
    <string notr="true">background-color: rgb(143, 240, 164);</string>
   </property>
